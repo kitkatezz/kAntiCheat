@@ -1,0 +1,13 @@
+# 
+# © 2024 kitkat. - Todos os direitos reservados.
+# 
+
+# Configurações gerais do plugin
+
+# Distância máxima que um jogador pode atingir o outro.
+# Por padrão, o jogador pode atingir alvos a uma distância de 4 blocos.
+# No entanto, eu recomendaria deixar um valor menor.
+max_hit_distance: 3
+
+# Delay entre um hit e outro. Por exemplo, 0.25 => 4 hits por segundo.
+delay_per_hit: 0.25

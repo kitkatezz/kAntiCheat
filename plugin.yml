@@ -1,0 +1,5 @@
+name: 'kAntiCheat'
+version: 1.0.0
+main: 'kitkat\anticheat\Loader'
+api: 2.0.0
+author: 'kitkat.'

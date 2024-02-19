@@ -5,7 +5,7 @@ A simple anticheat plugin.
 Currently, this plugin only has two functions: limiting CPS and the distance a player can reach.
 You can configure everything in config.yml
 
-```
+```yaml
 # Maximum distance that one player can hit another.
 # By default, the player can hit targets at a distance of 4 blocks.
 # However, I would recommend leaving a lower value.

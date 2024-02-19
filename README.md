@@ -3,6 +3,7 @@
 A simple anticheat plugin.
 
 Currently, this plugin only has two functions: limiting CPS and the distance a player can reach.
+
 You can configure everything in config.yml
 
 ```yaml
